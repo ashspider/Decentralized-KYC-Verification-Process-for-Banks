@@ -11,3 +11,15 @@ Customer Identification: In the case of suspicious banking transactions through 
 Monitoring of Bank Activities: Suspicious and doubtful activities in any account can be zeroed in by the bank after understanding its customer base using KYC.
 
 Risk Management: Now that the bank has all the preliminary information and the activity pattern, it can assess the risk and the likelihood of the customer being involved in illegal transactions.
+
+# Solution Using Blockchain
+
+The blockchain is an immutable distributed ledger shared with everyone involved in the network. Every participant interacts with the blockchain using a public-private cryptographic key combination. Moreover, immutable record storage is provided, which is extremely hard to tamper with.
+
+ 
+
+Banks can utilise the feature set of blockchain to reduce the difficulties faced by the traditional KYC process. A distributed ledger can be set up between all the banks, where one bank can upload the KYC of a customer and other banks can vote on the legitimacy of the customer details. KYC for the customers will be immutably stored on the blockchain and will be accessible to all the banks in the blockchain.
+
+# Graphical Representation
+
+
