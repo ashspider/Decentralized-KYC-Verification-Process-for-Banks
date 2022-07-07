@@ -22,4 +22,5 @@ Banks can utilise the feature set of blockchain to reduce the difficulties faced
 
 # Graphical Representation
 
+![bank](https://user-images.githubusercontent.com/39323954/177722055-a96e4009-7e47-45a1-89c3-e4d1ddbb8eb1.png)
 
